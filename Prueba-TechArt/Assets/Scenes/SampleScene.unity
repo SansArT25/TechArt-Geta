@@ -11079,7 +11079,7 @@ MonoBehaviour:
   - {fileID: 1840777984}
   - {fileID: 1155060127}
   - {fileID: 1622310354}
-  speed: 0.05
+  speed: 0.02
 --- !u!1 &1360954863
 GameObject:
   m_ObjectHideFlags: 0
